@@ -1,1 +1,1 @@
-# Speech-Recognition-And-Emotional-
+# Emotions and Sentiments Detection
